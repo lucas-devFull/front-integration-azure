@@ -1,2 +1,2 @@
-# front-integration-azure
-Project React JS
+# front-icomaeducation
+React Project
