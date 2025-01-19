@@ -86,7 +86,7 @@ button[disabled] {
     padding: 7px 30px;
 }
 .btn.btn-outline:hover {
-    background-color: chocolate;
+    background-color: rgb(69, 40, 19);
     color: #fff;
 }
 .btn.btn-plus-outline:hover {

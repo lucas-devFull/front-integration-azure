@@ -86,7 +86,7 @@ button[disabled] {
     padding: 7px 30px;
 }
 .btn.btn-outline:hover {
-    background-color: chocolate;
+    background-color: rgb(145, 71, 18);
     color: #fff;
 }
 .btn.btn-plus-outline:hover {
@@ -94,7 +94,7 @@ button[disabled] {
     color: #fff;
 }
 .container .error {
-    color: #721c24;
+    color: #7a0d18;
     background-color: #f8d4da;
     border: 1px solid #f8d4da;
     padding: 5px;
